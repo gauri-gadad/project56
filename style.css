@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: mediumpurple;
+}
+
+div{
+    margin-top: 20px;
+}
+.image-section{
+    display:flex;
+    justify-content:center;
+    } 
+.section-style {
+    margin-right: 28px;
+    margin-left: 28px;
+    background-color: aquamarine;
+}
+img{
+    width:200px;
+}
